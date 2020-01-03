@@ -27,4 +27,4 @@ self.graphicView.text = @"CoreText   �
 [self.view addSubview:self.graphicView];
 ```
 ![](http://server-name.test.upcdn.net/Algorithm/2020-01-03-Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202020-01-03%20at%2013.11.44.png)
-// - 01
+// - 写的太乱整理好上传代码,先就静态包吧...
