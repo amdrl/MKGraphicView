@@ -1,5 +1,5 @@
 # MKGraphicView
-MKGraphicView
+MKGraphicView - 依赖 SDWebImage - UIImageView+WebCache
 
 - info.plist 添加你的字体 Fonts provided by application
 
