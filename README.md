@@ -5,9 +5,11 @@ MKGraphicView
 
 #import <MKGraphicView/MKGraphicView.h>
 
-- <MKGraphicViewDelegate>
+- MKGraphicViewDelegate
 ```
+click Image
 - (void)attributedLabel:(nonnull MKGraphicView *)label selectedImage:(nonnull MKAttributedImage *)selectedImage;
+click URL
 - (void)attributedLabel:(nonnull MKGraphicView *)label selectedLink:(nonnull MKAttributedLink *)selectedLink; 
 ```
 
@@ -25,3 +27,4 @@ self.graphicView.text = @"CoreText   �
 [self.view addSubview:self.graphicView];
 ```
 ![](http://server-name.test.upcdn.net/Algorithm/2020-01-03-Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202020-01-03%20at%2013.11.44.png)
+// - 01
