@@ -1,7 +1,7 @@
 # MKGraphicView
 MKGraphicView
 
-
+- info.plist 添加你的字体 Fonts provided by application
 
 #import <MKGraphicView/MKGraphicView.h>
 
