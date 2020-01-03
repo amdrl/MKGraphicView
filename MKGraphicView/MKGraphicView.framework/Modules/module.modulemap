@@ -1,0 +1,6 @@
+framework module MKGraphicView {
+  umbrella header "MKGraphicView.h"
+
+  export *
+  module * { export * }
+}
